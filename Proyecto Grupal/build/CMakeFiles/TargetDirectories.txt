@@ -1,0 +1,3 @@
+C:/Users/Juan/Desktop/HELL/PEL/Proyecto Grupal/build/CMakeFiles/Roland_Garros.dir
+C:/Users/Juan/Desktop/HELL/PEL/Proyecto Grupal/build/CMakeFiles/edit_cache.dir
+C:/Users/Juan/Desktop/HELL/PEL/Proyecto Grupal/build/CMakeFiles/rebuild_cache.dir

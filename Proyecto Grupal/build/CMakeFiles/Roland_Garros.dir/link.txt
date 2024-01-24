@@ -1,0 +1,3 @@
+C:\msys64\ucrt64\bin\cmake.exe -E rm -f CMakeFiles\Roland_Garros.dir/objects.a
+C:\msys64\ucrt64\bin\ar.exe qc CMakeFiles\Roland_Garros.dir/objects.a @CMakeFiles\Roland_Garros.dir\objects1.rsp
+C:\msys64\ucrt64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\Roland_Garros.dir/objects.a -Wl,--no-whole-archive -o debug\Roland_Garros.exe -Wl,--out-implib,libRoland_Garros.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Roland_Garros.dir\linkLibs.rsp

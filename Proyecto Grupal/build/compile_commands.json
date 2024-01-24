@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/Juan/Desktop/HELL/PEL/Proyecto Grupal/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++23 -Wall -Wextra -pedantic -Werror -o CMakeFiles\\Roland_Garros.dir\\main.cpp.obj -c \"C:\\Users\\Juan\\Desktop\\HELL\\PEL\\Proyecto Grupal\\main.cpp\"",
+  "file": "C:/Users/Juan/Desktop/HELL/PEL/Proyecto Grupal/main.cpp",
+  "output": "CMakeFiles/Roland_Garros.dir/main.cpp.obj"
+}
+]
